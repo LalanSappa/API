@@ -6,7 +6,7 @@ function Navbar(){
             {/* <center>
                 <button onClick={() => navigate('/home')}>Home</button>
                 <button onClick={() => navigate('/user')}>User API</button> */}
-            </center>
+            {/* </center> */}
         </>
     )
 }
